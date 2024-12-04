@@ -3,17 +3,9 @@
 #
 #     By Patrick Rogers, California Research Bureau
 #       December 2024
-#
-# To Do
-#   1. Item 1
-#   2. Item 2
-
-# Connect to GitHub
-# move to the project directory
 
 # Load Packages
 library(here)
-library(httr2)
 
 # Inits
 setwd(here::here())
